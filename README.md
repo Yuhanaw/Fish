@@ -4,3 +4,4 @@
 # mania
 # nila
 # joran
+# shimano
